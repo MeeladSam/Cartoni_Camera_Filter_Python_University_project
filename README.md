@@ -10,3 +10,6 @@ So basically, it’s a mix of color enhancement, smoothing, color simplification
 
 
 <img width="1349" height="528" alt="Cartoni2" src="https://github.com/user-attachments/assets/ec60dd4f-6f63-4c8a-afe1-ab3b78333c84" />
+
+
+![Uploading Cartoni.png…]()
